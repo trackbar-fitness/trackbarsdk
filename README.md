@@ -51,7 +51,7 @@ Create instance of TrackbarManager class:
 val instance = TrackbarManager.instance(applicationContext, partnerId, token)
 ```
 
-`partnerId` and `token` can be retrieved after subscribing to Trackbar 
+`partnerId` and `token` can be retrieved after subscribing to Trackbar.
 If these parameters are not specified or incorrect, none of the functions below will work
 
 **Permissions**
